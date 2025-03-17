@@ -1,3 +1,5 @@
+# Written by Théo I can't make it work so i listened to gpt and he didn't help me too so i push this even if it's not working
+
 # ben-or-consensus-algorithm
 
 Your goal for this exercise is to implement a version of the Ben Or consensus algorithm
